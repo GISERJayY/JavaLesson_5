@@ -76,7 +76,7 @@
 
 ## 创建对象内存分析
 
-![]([/Users/a88/Desktop/JAVA/JavaLesson_5/图片/1690704006941.jpg](https://github.com/GISERJayY/JavaLesson_5/blob/main/%E5%9B%BE%E7%89%87/1690704006941.jpg?raw=true))
+![](https://github.com/GISERJayY/JavaLesson_5/blob/main/%E5%9B%BE%E7%89%87/1690704006941.jpg?raw=true))
 
 ## 小结
 
